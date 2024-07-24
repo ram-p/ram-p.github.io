@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div align="justify">
-
 I'm a second-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Prof. Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
 
 I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and reachability for systems whose dynamics are affected by adversaries. In relation to this, I am thinking about (though not yet actively working on!) guaranteeing safety and resilience in adversarial environments.
@@ -42,5 +40,3 @@ News
 - March 19, 2024 — Our article ["Multiple estimation models for discrete-time adaptive iterative learning control"](https://www.tandfonline.com/doi/full/10.1080/00207721.2024.2335228) has been accepted for publication in _International Journal of Systems Science_. This research was conducted during my undergraduate degree, and this paper has been on an incredibly long journey!
 
 - August 29, 2023 — Announcing a new paper ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints"](https://arxiv.org/abs/2210.00644), which contains most of my work during my M.S.
-
-</div>
