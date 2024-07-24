@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Prof. Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
+I'm a second-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Prof. Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
 
 I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and reachability for systems whose dynamics are affected by adversaries. In relation to this, I am thinking about (though not yet actively working on!) guaranteeing safety and resilience in adversarial environments.
 
@@ -17,15 +17,15 @@ You can find a short CV [here](https://ram-p.github.io/files/CV_RP.pdf), and my 
 
 Education
 ------
--Ph.D. Electrical and Computer Engineering; University of Illinois Urbana-Champaign; (Current)
+- Ph.D. Electrical and Computer Engineering; University of Illinois Urbana-Champaign; _(Current)_  
 Advisor: Prof. Melkior Ornik
 
--M.S. Electrical and Computer Engineering; University of Michigan, Ann Arbor; 2023
+- M.S. Electrical and Computer Engineering; University of Michigan, Ann Arbor; 2023. 
 Advisor: Prof. Peter Seiler
 
--B.Tech Electronics and Communication Engineering; PES University, Bengaluru, India; 2021
-Advisors: Prof. Rajini Makam and Prof. Koshy George
-Capstone Project: Adaptive Iterative Learning Control
+- B.Tech Electronics and Communication Engineering; PES University, Bengaluru, India; 2021  
+Advisors: Prof. Rajini Makam and Prof. Koshy George. 
+Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
