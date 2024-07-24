@@ -15,6 +15,9 @@ I received my MS in Electrical and Computer Engineering at the University of Mic
 
 You can find a short CV [here](https://ram-p.github.io/files/CV_RP.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
 
+**Contact:** 360 Coordinated Science Laboratory, Urbana, IL 61801, USA. \
+**Email:** ramp3 \[at\] illinois \[dot\] edu
+
 Education
 ------
 - Ph.D. Electrical and Computer Engineering; University of Illinois Urbana-Champaign; _(Current)_  
