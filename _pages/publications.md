@@ -29,4 +29,4 @@ Conference Papers
 
 1. **R. Padmanabhan**, M. Bhushan, K. K. Hebbar, R. Makam and K. George, ["A Novel Strategy with Multiple Models to Improve Performance of Adaptive Iterative Learning Control,"](https://ieeexplore.ieee.org/document/9622359) in _2021 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)_, Bengaluru, India, Jul. 2021. (Virtual).
 
-1. **R. Padmanabhan**, S. Damodaran, V. N. Batra and S. Gurugopinath, ["A Convolutional Neural Network Architecture for Camera Model Identification with Small Datasets,"](https://ieeexplore.ieee.org/document/9198595) in _2020 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT), Bengaluru, India, Jul. 2020_. (Virtual).
+1. **R. Padmanabhan**, S. Damodaran, V. N. Batra and S. Gurugopinath, ["A Convolutional Neural Network Architecture for Camera Model Identification with Small Datasets,"](https://ieeexplore.ieee.org/document/9198595) in _2020 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)_, Bengaluru, India, Jul. 2020. (Virtual).
