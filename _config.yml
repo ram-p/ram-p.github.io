@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ram Padmanabhan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ram Padmanabhan"
 description              : &description "personal description"
 url                      : https://ram-p.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
