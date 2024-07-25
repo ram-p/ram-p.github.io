@@ -17,9 +17,11 @@ Taught two discussion sessions each week, held office hours and graded exams.
 
 Mentoring
 ------
-- [Undergraduate Research Apprenticeship Program (URAP)](https://grad.illinois.edu/urap), University of Illinois Urbana-Champaign, August 2024 — May 2025
+- [Undergraduate Research Apprenticeship Program (URAP)](https://grad.illinois.edu/urap)\
+University of Illinois Urbana-Champaign, August 2024 — May 2025
 
-- [Promoting Undergraduate Research in Engineering (PURE)](https://pure.engr.illinois.edu/), University of Illinois Urbana-Champaign, August — December 2023 \
+- [Promoting Undergraduate Research in Engineering (PURE)](https://pure.engr.illinois.edu/)\
+University of Illinois Urbana-Champaign, August — December 2023 \
 Mentored a group of three undergraduates at UIUC in investigating the performance of different nonlinear Kalman filters on the problem of battery state-of-charge estimation. (One student subsequently joined our primary research group.)
 
 Other Experience
