@@ -11,7 +11,7 @@ Teaching
 _EECS 460 — Control System Analysis and Design_, January — April 2023 \
 Taught two discussion sessions each week, held office hours and graded exams.
 
-- **Graduate Student Instructor**, University of Michigan, Ann Arbor
+- **Graduate Student Instructor**, University of Michigan, Ann Arbor \
 _EECS 301 — Probabilistic Methods in Engineering_, August — December 2022 \
 Taught two discussion sessions each week, held office hours and graded exams.
 
