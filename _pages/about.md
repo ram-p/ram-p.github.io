@@ -41,8 +41,8 @@ News
 
 - April 27, 2024 — Presented a poster "How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances" at the [10th Midwest Workshop on Control and Game Theory (MWCGT)](https://mwcgt2024.northwestern.edu/) at Northwestern University, Evanston IL, on some of my very early PhD work.
 
-- April 11, 2024 — I'm honored and excited to share that I have received the [Joan and Lalit Bahl Fellowship](https://ece.illinois.edu/academics/grad/fellowships/bahl) from the ECE department at UIUC for the 2024-2025 academic year.
+- April 11, 2024 — I'm honored to receive the [Joan and Lalit Bahl Fellowship](https://ece.illinois.edu/academics/grad/fellowships/bahl) from the ECE department at UIUC for the 2024-2025 academic year.
 
 - March 19, 2024 — Our article ["Multiple estimation models for discrete-time adaptive iterative learning control"](https://www.tandfonline.com/doi/full/10.1080/00207721.2024.2335228) has been accepted for publication in _International Journal of Systems Science_. This research was conducted during my undergraduate degree, and this paper has been on an incredibly long journey!
 
-- August 29, 2023 — Announcing a new paper ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints"](https://arxiv.org/abs/2210.00644), which contains most of my work during my M.S.
+- August 29, 2023 — Announcing a new paper ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints"](https://arxiv.org/abs/2210.00644), which contains most of my work during my MS.
