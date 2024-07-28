@@ -5,13 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Preprints
-------
-1. **R. Padmanabhan** and P. Seiler, "Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints," [arXiv: 2210.00644](https://arxiv.org/abs/2210.00644).
-
 Journal Articles
 ------
-{:start="2"}
+1. **R. Padmanabhan** and P. Seiler, "Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints," accepted to _IEEE Transactions on Automatic Control_, 2024. \[Available at [arXiv: 2210.00644](https://arxiv.org/abs/2210.00644)\]
+
 2. **R. Padmanabhan**, R. Makam and K. George, ["Multiple Estimation Models for Discrete-time Adaptive Iterative Learning Control,"](https://www.tandfonline.com/doi/full/10.1080/00207721.2024.2335228) _International Journal of Systems Science_, 55(10), pp. 2154-2171, 2024. \[Available at [arXiv:2203.11892](https://arxiv.org/abs/2203.11892)\]
 
 3. **R. Padmanabhan**, M. Shetty and T. S. Chandar, ["Discrete Robust Control of Robot Manipulators using an Uncertainty and Disturbance Estimator,"](https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4062079/1160024/Discrete-Robust-Control-of-Robot-Manipulators) _Journal of Dynamic Systems, Measurement and Control_, 145(5): 051022, May 2023. \[Available at [arXiv: 2203.03805](https://arxiv.org/abs/2203.03805)\]
@@ -20,7 +17,6 @@ Journal Articles
 
 Conference Papers
 ------
-{:start="5"}
 1. **R. Padmanabhan**, C. Bakker, S. A. Dinkar, and M. Ornik, "How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances," in _2024 63rd IEEE Conference on Decision and Control (CDC)_, Milan, Italy, Dec. 2024.
 
 1. **R. Padmanabhan**, M. Bhushan, K. K. Hebbar, R. Makam, and K. George, ["Second-Level Adaptation and Optimization for Multiple Model Adaptive Iterative Learning Control,"](https://ieeexplore.ieee.org/abstract/document/9703125) in _2021 Seventh Indian Control Conference_, Mumbai, India, Dec. 2021, pp. 289-294. (Virtual).

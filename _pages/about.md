@@ -35,6 +35,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- July 27, 2024 — Our article "Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints", containing most of my MS work at Michigan, has been accepted for publication in the _IEEE Transactions on Automatic Control_ as a technical note!
+
 - July 24, 2024 — Our paper "How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances" has been accepted for presentation at the _2024 IEEE Conference on Decision and Control (CDC)_ in December!
 
 - July 9, 2024 — I've been selected as a mentor for the [Undergraduate Research Apprenticeship Program (URAP)](https://grad.illinois.edu/urap) from the Graduate College at Illinois for 2024-2025.
@@ -44,5 +46,3 @@ News
 - April 11, 2024 — I'm honored to receive the [Joan and Lalit Bahl Fellowship](https://ece.illinois.edu/academics/grad/fellowships/bahl) from the ECE department at UIUC for the 2024-2025 academic year.
 
 - March 19, 2024 — Our article ["Multiple estimation models for discrete-time adaptive iterative learning control"](https://www.tandfonline.com/doi/full/10.1080/00207721.2024.2335228) has been accepted for publication in _International Journal of Systems Science_. This research was conducted during my undergraduate degree, and this paper has been on an incredibly long journey!
-
-- August 29, 2023 — Announcing a new paper ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints"](https://arxiv.org/abs/2210.00644), which contains most of my work during my MS.
