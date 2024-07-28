@@ -35,7 +35,7 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
-- July 27, 2024 — Our article "Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints", containing most of my MS work at Michigan, has been accepted for publication in the _IEEE Transactions on Automatic Control_ as a technical note!
+- July 27, 2024 — Our article "Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints", containing most of my MS work, has been accepted for publication in the _IEEE Transactions on Automatic Control_ as a technical note!
 
 - July 24, 2024 — Our paper "How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances" has been accepted for presentation at the _2024 IEEE Conference on Decision and Control (CDC)_ in December!
 
