@@ -17,7 +17,7 @@ Journal Articles
 
 Conference Papers
 ------
-1. **R. Padmanabhan**, C. Bakker, S. A. Dinkar, and M. Ornik, "How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances," in _2024 63rd IEEE Conference on Decision and Control (CDC)_, Milan, Italy, Dec. 2024.
+1. **R. Padmanabhan**, C. Bakker, S. A. Dinkar, and M. Ornik, "How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances," in _2024 63rd IEEE Conference on Decision and Control (CDC)_, Milan, Italy, Dec. 2024. \[Available at [arXiv: 2408.10913](https://arxiv.org/abs/2408.10913)\]
 
 1. **R. Padmanabhan**, M. Bhushan, K. K. Hebbar, R. Makam, and K. George, ["Second-Level Adaptation and Optimization for Multiple Model Adaptive Iterative Learning Control,"](https://ieeexplore.ieee.org/abstract/document/9703125) in _2021 Seventh Indian Control Conference_, Mumbai, India, Dec. 2021, pp. 289-294. (Virtual).
 
