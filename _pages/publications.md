@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+Preprints
+------
+
+1. **R. Padmanabhan** and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,"](https://arxiv.org/abs/2410.00323), arXiv:2410.00323 [math.OC], Oct. 2024.
+
 Journal Articles
 ------
 1. **R. Padmanabhan** and P. Seiler, ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints,"](https://ieeexplore.ieee.org/document/10623868) accepted to _IEEE Transactions on Automatic Control_, 2024. \[Available at [arXiv: 2210.00644](https://arxiv.org/abs/2210.00644)\]
