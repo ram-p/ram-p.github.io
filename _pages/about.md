@@ -9,11 +9,11 @@ redirect_from:
 
 I'm a second-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Prof. Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
 
-I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and reachability for systems whose dynamics are affected by adversaries. In relation to this, I am thinking about (though not yet actively working on!) guaranteeing safety and resilience in adversarial environments.
+I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and reachability for systems whose dynamics are affected by adversaries. In relation to this, I am working on guaranteeing resilience, safety, and optimality for nonlinear systems in adversarial environments.
 
-I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Prof. Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent. Prior to this, I worked on the design of robust discrete-time controllers, and adaptive iterative learning control.
+I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Prof. Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
 
-You can find a short CV [here](https://ram-p.github.io/files/CV_RP.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
+You can find my CV [here](https://ram-p.github.io/files/CV_RP.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
 
 **Contact:** 360 Coordinated Science Laboratory, Urbana, IL 61801, USA. \
 **Email:** ramp3 \[at\] illinois \[dot\] edu

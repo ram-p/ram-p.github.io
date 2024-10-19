@@ -8,7 +8,7 @@ author_profile: true
 Preprints
 ------
 
-1. **R. Padmanabhan** and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,"](https://arxiv.org/abs/2410.00323), arXiv:2410.00323 [math.OC], Oct. 2024.
+1. **R. Padmanabhan** and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,"](https://arxiv.org/abs/2410.00323) arXiv:2410.00323 [math.OC], Oct. 2024.
 
 Journal Articles
 ------
