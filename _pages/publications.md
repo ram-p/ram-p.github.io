@@ -8,11 +8,13 @@ author_profile: true
 Preprints
 ------
 
+1. **R. Padmanabhan** and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://arxiv.org/abs/2502.07603) arXiv:2502.07603 [math.OC], Feb. 2025.
+
 1. **R. Padmanabhan** and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,"](https://arxiv.org/abs/2410.00323) arXiv:2410.00323 [math.OC], Oct. 2024.
 
 Journal Articles
 ------
-1. **R. Padmanabhan** and P. Seiler, ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints,"](https://ieeexplore.ieee.org/document/10623868) accepted to _IEEE Transactions on Automatic Control_, 2024. \[Available at [arXiv: 2210.00644](https://arxiv.org/abs/2210.00644)\]
+1. **R. Padmanabhan** and P. Seiler, ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints,"](https://ieeexplore.ieee.org/document/10623868) accepted to _IEEE Transactions on Automatic Control_, 70(1), pp. 587--594, Jan. 2025. \[Available at [arXiv: 2210.00644](https://arxiv.org/abs/2210.00644)\]
 
 2. **R. Padmanabhan**, R. Makam and K. George, ["Multiple Estimation Models for Discrete-time Adaptive Iterative Learning Control,"](https://www.tandfonline.com/doi/full/10.1080/00207721.2024.2335228) _International Journal of Systems Science_, 55(10), pp. 2154-2171, 2024. \[Available at [arXiv:2203.11892](https://arxiv.org/abs/2203.11892)\]
 
