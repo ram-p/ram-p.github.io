@@ -37,14 +37,16 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- April 13, 2025 — A new paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://arxiv.org/abs/2504.08579) is available on arXiv, and is primarily the work of an undergraduate student I mentored.
+
+- April 7, 2025 — Our paper ["Energetic Resilience of Linear Driftless Systems"](https://arxiv.org/abs/2410.00323) has been accepted for presentation at the [_11th IFAC Symposium on Robust Control Design (ROCOND)_](https://conferences.ifac-control.org/rocond2025/) in July!
+
+- March 17, 2025 — Submitted a new paper "Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance". This paper solves optimal control problems for switched systems (with arbitrary switching, either stochastic or potentially adversarial) by transforming them into convex programs using system level synthesis. 
+
 - February 11, 2025 — Announcing a new paper ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority"](https://arxiv.org/abs/2502.07603) on arXiv. This is our first exploration into resilience under possible adversarial action for classical nonlinear systems.
 
-- December 19, 2024 — I was at the [_2024 IEEE Conference on Decision and Control (CDC)_](https://cdc2024.ieeecss.org/) in Milan, Italy this week, presenting our paper ["How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances"](https://ieeexplore.ieee.org/document/10886030). This forms some of the earliest work I conducted during my PhD.
+- December 19, 2024 — I was at the [_63rd IEEE Conference on Decision and Control (CDC)_](https://cdc2024.ieeecss.org/) in Milan, Italy this week, presenting our paper ["How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances"](https://ieeexplore.ieee.org/document/10886030). This forms some of the earliest work I conducted during my PhD.
 
 - October 2, 2024 — A new paper ["Energetic Resilience of Linear Driftless Systems"](https://arxiv.org/abs/2410.00323) is available on arXiv.
 
 - July 27, 2024 — Our article ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints"](https://ieeexplore.ieee.org/document/10623868), containing most of my MS work, has been accepted for publication in the _IEEE Transactions on Automatic Control_ as a technical note!
-
-- July 24, 2024 — Our paper ["How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances"](https://arxiv.org/abs/2408.10913) has been accepted for presentation at the [_2024 IEEE Conference on Decision and Control (CDC)_](https://cdc2024.ieeecss.org/) in December!
-
-- July 9, 2024 — I've been selected as a mentor for the [Undergraduate Research Apprenticeship Program (URAP)](https://grad.illinois.edu/urap) from the Graduate College at Illinois for 2024-2025.
