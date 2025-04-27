@@ -37,7 +37,7 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
-- April 27, 2025 — I was at the ["11th Midwest Workshop on Control and Game Theory"](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/) at UIUC this weekend, and presented a poster on our recently submitted paper "Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance".
+- April 27, 2025 — I was at the [11th Midwest Workshop on Control and Game Theory](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/) at UIUC this weekend, and presented a poster on our recently submitted paper "Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance".
 
 - April 13, 2025 — A new paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://arxiv.org/abs/2504.08579) is available on arXiv, and is primarily the work of an undergraduate student I mentored.
 
