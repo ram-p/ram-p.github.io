@@ -11,7 +11,7 @@ I'm a second-year PhD student in Electrical and Computer Engineering at the Univ
 
 I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and reachability for systems whose dynamics are affected by system faults or adversaries. In relation to this, I am working on guaranteeing resilience, safety, and optimality for nonlinear systems in such environments.
 
-I am also working on a game-theoretic viewpoint on resilience to adversarial attacks, and problems relating to deceiving adversaries in stochastic control systems. I plan to think about applications in cyber-physical networks, such as large-scale traffic systems soon. 
+I am also working on a game-theoretic viewpoint on resilience to adversarial attacks, and problems relating to deceiving adversaries in stochastic environments. I plan to think about applications in cyber-physical networks, such as large-scale traffic systems soon. 
 
 I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Prof. Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
 
@@ -37,6 +37,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- April 27, 2025 — I was at the ["11th Midwest Workshop on Control and Game Theory"](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/) at UIUC this weekend, and presented a poster on our recently submitted paper "Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance".
+
 - April 13, 2025 — A new paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://arxiv.org/abs/2504.08579) is available on arXiv, and is primarily the work of an undergraduate student I mentored.
 
 - April 7, 2025 — Our paper ["Energetic Resilience of Linear Driftless Systems"](https://arxiv.org/abs/2410.00323) has been accepted for presentation at the [_11th IFAC Symposium on Robust Control Design (ROCOND)_](https://conferences.ifac-control.org/rocond2025/) in July!

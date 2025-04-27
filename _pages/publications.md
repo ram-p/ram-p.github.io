@@ -14,7 +14,7 @@ Preprints and Submitted Material
 
 Journal Articles
 ------
-1. **R. Padmanabhan** and P. Seiler, ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints,"](https://ieeexplore.ieee.org/document/10623868) accepted to _IEEE Transactions on Automatic Control_, 70(1), pp. 587--594, Jan. 2025. \[Available at [arXiv:2210.00644](https://arxiv.org/abs/2210.00644)\]
+1. **R. Padmanabhan** and P. Seiler, ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints,"](https://ieeexplore.ieee.org/document/10623868) _IEEE Transactions on Automatic Control_, 70(1), pp. 587--594, Jan. 2025. \[Available at [arXiv:2210.00644](https://arxiv.org/abs/2210.00644)\]
 
 2. **R. Padmanabhan**, R. Makam and K. George, ["Multiple Estimation Models for Discrete-time Adaptive Iterative Learning Control,"](https://www.tandfonline.com/doi/full/10.1080/00207721.2024.2335228) _International Journal of Systems Science_, 55(10), pp. 2154-2171, 2024. \[Available at [arXiv:2203.11892](https://arxiv.org/abs/2203.11892)\]
 
