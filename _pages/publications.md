@@ -8,6 +8,8 @@ author_profile: true
 Preprints and Submitted Material
 ------
 
+1. **R. Padmanabhan**, A. Aspeel, N. Ozay, and M. Ornik, ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance,"](https://arxiv.org/abs/2505.13105) arXiv:2505.13105 [math.OC], May 2025.
+
 1. S. A. Dinkar, **R. Padmanabhan**, A. Clarke, P.-O. Gutman, and M. Ornik, ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://arxiv.org/abs/2504.08579) arXiv:2504.08579 [eess.SY], Apr. 2025.
 
 1. **R. Padmanabhan** and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://arxiv.org/abs/2502.07603) arXiv:2502.07603 [math.OC], Feb. 2025.
