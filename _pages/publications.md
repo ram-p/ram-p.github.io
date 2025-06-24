@@ -8,14 +8,12 @@ author_profile: true
 Preprints and Submitted Material
 ------
 
-1. S. A. Dinkar, **R. Padmanabhan**, A. Clarke, P.-O. Gutman, and M. Ornik, ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://arxiv.org/abs/2504.08579) arXiv:2504.08579 [eess.SY], Apr. 2025.
-
 1. **R. Padmanabhan** and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://arxiv.org/abs/2502.07603) arXiv:2502.07603 [math.OC], Feb. 2025.
 
  Journal Articles
 ------
 
-1. **R. Padmanabhan**, A. Aspeel, N. Ozay, and M. Ornik, "Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance," accepted to _IEEE Control Systems Letters_, Jun. 2025. \[Available at [arXiv:2505.13105](https://arxiv.org/abs/2505.13105)\]
+1. **R. Padmanabhan**, A. Aspeel, N. Ozay, and M. Ornik, ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance,"](https://ieeexplore.ieee.org/document/11036760) accepted to _IEEE Control Systems Letters_, Jun. 2025. \[Available at [arXiv:2505.13105](https://arxiv.org/abs/2505.13105)\]
 
 1. **R. Padmanabhan** and P. Seiler, ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints,"](https://ieeexplore.ieee.org/document/10623868) _IEEE Transactions on Automatic Control_, 70(1), pp. 587--594, Jan. 2025. \[Available at [arXiv:2210.00644](https://arxiv.org/abs/2210.00644)\]
 
@@ -28,7 +26,9 @@ Preprints and Submitted Material
  Conference Papers
 ------
 
-1. **R. Padmanabhan** and M. Ornik, "Energetic Resilience of Linear Driftless Systems," in _11th IFAC Symposium on Robust Control Design (ROCOND)_, Porto, Portugal, Jul. 2024. \[Available at [arXiv:2410.00323](https://arxiv.org/abs/2410.00323)\]
+1. S. A. Dinkar, **R. Padmanabhan**, A. Clarke, P.-O. Gutman, and M. Ornik, "Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities," in _5th Modeling, Estimation and Control Conference (MECC)_, Pittsburgh, PA, USA, Oct. 2025. \[Available at [arXiv:2504.08579](https://arxiv.org/abs/2504.08579)\]
+
+1. **R. Padmanabhan** and M. Ornik, "Energetic Resilience of Linear Driftless Systems," in _11th IFAC Symposium on Robust Control Design (ROCOND)_, Porto, Portugal, Jul. 2025. \[Available at [arXiv:2410.00323](https://arxiv.org/abs/2410.00323)\]
 
 1. **R. Padmanabhan**, C. Bakker, S. A. Dinkar, and M. Ornik, ["How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances,"](https://ieeexplore.ieee.org/document/10886030) in _63rd IEEE Conference on Decision and Control (CDC)_, Milan, Italy, Dec. 2024. \[Available at [arXiv:2408.10913](https://arxiv.org/abs/2408.10913)\]
 

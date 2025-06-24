@@ -37,6 +37,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- June 24, 2025 — Our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://arxiv.org/abs/2504.08579) has been accepted for presentation at the [_5th Modeling, Estimation and Control Conference (MECC)_](https://mecc2025.a2c2.org/) in October!
+
 - June 8, 2025 — Our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105) has been accepted to _IEEE Control Systems Letters_!
 
 - June 7, 2025 — I was at the [7th Annual Learning for Dynamics & Control Conference](https://sites.google.com/umich.edu/l4dc2025/) at the University of Michigan, Ann Arbor this week.
