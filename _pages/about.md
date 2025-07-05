@@ -37,6 +37,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- July 4, 2025 — I was at the [11th IFAC Symposium on Robust Control Design](https://conferences.ifac-control.org/rocond2025/) this week, and was selected as a finalist for the IFAC Young Author Award for our paper ["Energetic Resilience of Linear Driftless Systems"](https://arxiv.org/abs/2410.00323).
+
 - June 24, 2025 — Our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://arxiv.org/abs/2504.08579) has been accepted for presentation at the [_5th Modeling, Estimation and Control Conference (MECC)_](https://mecc2025.a2c2.org/) in October!
 
 - June 8, 2025 — Our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105) has been accepted to _IEEE Control Systems Letters_!
@@ -54,5 +56,3 @@ News
 - March 17, 2025 — Submitted a new paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105). This paper solves optimal control problems for switched systems (with arbitrary switching, either stochastic or potentially adversarial) by transforming them into convex programs using system level synthesis. 
 
 - February 11, 2025 — Announcing a new paper ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority"](https://arxiv.org/abs/2502.07603) on arXiv. This is our first exploration into resilience under possible adversarial action for classical nonlinear systems.
-
-- December 19, 2024 — I was at the [_63rd IEEE Conference on Decision and Control (CDC)_](https://cdc2024.ieeecss.org/) in Milan, Italy this week, presenting our paper ["How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances"](https://ieeexplore.ieee.org/document/10886030). This forms some of the earliest work I conducted during my PhD.
