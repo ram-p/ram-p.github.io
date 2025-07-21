@@ -9,9 +9,9 @@ redirect_from:
 
 I'm a second-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Prof. Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
 
-I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and reachability for systems whose dynamics are affected by system faults or adversaries. In relation to this, I am working on guaranteeing resilience, safety, and optimality for nonlinear systems in such environments.
+I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and resilience of systems whose dynamics are affected by system faults or adversaries. In relation to this, I have worked on quantifying the resilience of nonlinear dynamical systems under partial adversarial actions.
 
-I am also working on a game-theoretic viewpoint on resilience to adversarial attacks, and problems relating to deceiving adversaries in stochastic environments. I plan to think about applications in cyber-physical networks, such as large-scale traffic systems soon. 
+I am currently working on designing controllers for systems suffering such adversarial attacks, as well as quantifying resilience of nonlinear networks. I am also interested in problems relating to deceiving adversaries in stochastic environments.
 
 I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Prof. Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
 
