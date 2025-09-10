@@ -37,7 +37,7 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
-- September 8, 2025 — Announcing a new paper ["Ignore Drift, Embrace Simplicity: Constrained Nonlinear Control through Driftless Approximation"](https://arxiv.org/abs/2509.06188) on arXiv. This paper presents a novel method to control input-constrained nonlinear systems using optimal controllers for driftless systems, applied over successively shorter horizons.
+- September 8, 2025 — Submitted a new paper ["Ignore Drift, Embrace Simplicity: Constrained Nonlinear Control through Driftless Approximation"](https://arxiv.org/abs/2509.06188). This paper presents a novel method to control input-constrained nonlinear systems using optimal controllers for driftless systems, applied over successively shorter horizons.
 
 - July 4, 2025 — I was at the [11th IFAC Symposium on Robust Control Design](https://conferences.ifac-control.org/rocond2025/) this week, and was selected as a finalist for the IFAC Young Author Award for our paper ["Energetic Resilience of Linear Driftless Systems"](https://arxiv.org/abs/2410.00323).
 
