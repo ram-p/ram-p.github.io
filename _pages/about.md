@@ -37,7 +37,7 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
-- September 16, 2025 — Submitted a paper ["Online Learning of Deceptive Policies under Intermittent Observation"](https://arxiv.org/abs/2509.14453). This paper proposes the use of Theory of Mind (ToM) to inform online reinforcement learning (RL) and design deceptive policies for an agent, in the setting of supervisory control.
+- September 16, 2025 — Submitted a paper ["Online Learning of Deceptive Policies under Intermittent Observation"](https://arxiv.org/abs/2509.14453). This paper uses Theory of Mind (ToM) to inform online reinforcement learning (RL), and thus design deceptive policies for an agent in the setting of supervisory control.
 
 - September 8, 2025 — Submitted a new paper ["Ignore Drift, Embrace Simplicity: Constrained Nonlinear Control through Driftless Approximation"](https://arxiv.org/abs/2509.06188). This paper presents a novel method to control input-constrained nonlinear systems using optimal controllers for driftless systems, applied over successively shorter horizons.
 
