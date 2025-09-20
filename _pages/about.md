@@ -43,7 +43,7 @@ News
 
 - July 4, 2025 — I was at the [11th IFAC Symposium on Robust Control Design](https://conferences.ifac-control.org/rocond2025/) this week, and was selected as a finalist for the IFAC Young Author Award for our paper ["Energetic Resilience of Linear Driftless Systems"](https://arxiv.org/abs/2410.00323).
 
-- June 24, 2025 — Our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://arxiv.org/abs/2504.08579) has been accepted for presentation at the [_5th Modeling, Estimation and Control Conference (MECC)_](https://mecc2025.a2c2.org/) in October!
+- June 24, 2025 — Our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579) has been accepted for presentation at the [_5th Modeling, Estimation and Control Conference (MECC)_](https://mecc2025.a2c2.org/) in October!
 
 - June 8, 2025 — Our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105) has been accepted to _IEEE Control Systems Letters_!
 
@@ -53,7 +53,7 @@ News
 
 - April 27, 2025 — I was at the [11th Midwest Workshop on Control and Game Theory](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/) at UIUC this weekend, and presented a poster on our recently submitted paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105).
 
-- April 13, 2025 — A new paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://arxiv.org/abs/2504.08579) is available on arXiv, and is primarily the work of an undergraduate student I mentored.
+- April 13, 2025 — A new paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579) is available on arXiv, and is primarily the work of an undergraduate student I mentored.
 
 - April 7, 2025 — Our paper ["Energetic Resilience of Linear Driftless Systems"](https://arxiv.org/abs/2410.00323) has been accepted for presentation at the [_11th IFAC Symposium on Robust Control Design (ROCOND)_](https://conferences.ifac-control.org/rocond2025/) in July!
 

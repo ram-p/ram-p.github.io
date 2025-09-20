@@ -17,7 +17,7 @@ Preprints and Submitted Material
 Journal Articles
 ------
 
-1. **R. Padmanabhan**, A. Aspeel, N. Ozay, and M. Ornik, ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance,"](https://ieeexplore.ieee.org/document/11036760) _IEEE Control Systems Letters_, 9, pp. 1784--1789, Jul. 2025 (presented at _64th IEEE Conference on Decision and Control (CDC)_). \[Available at [arXiv:2505.13105](https://arxiv.org/abs/2505.13105)\]
+1. **R. Padmanabhan**, A. Aspeel, N. Ozay, and M. Ornik, ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance,"](https://ieeexplore.ieee.org/document/11036760) _IEEE Control Systems Letters_, 9, pp. 1784--1789, Jul. 2025 (presented at _64th IEEE Conference on Decision and Control (CDC), Dec. 2025_). \[Available at [arXiv:2505.13105](https://arxiv.org/abs/2505.13105)\]
 
 1. **R. Padmanabhan** and P. Seiler, ["Analysis of Gradient Descent with Varying Step Sizes using Integral Quadratic Constraints,"](https://ieeexplore.ieee.org/document/10623868) _IEEE Transactions on Automatic Control_, 70(1), pp. 587--594, Jan. 2025. \[Available at [arXiv:2210.00644](https://arxiv.org/abs/2210.00644)\]
 
