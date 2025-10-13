@@ -37,7 +37,7 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
-- October 9, 2025 — I was at the [_5th Modeling, Estimation and Control Conference (MECC)_](https://mecc2025.a2c2.org/) this week, presenting our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579).
+- October 9, 2025 — I was at the [5th Modeling, Estimation and Control Conference (MECC)](https://mecc2025.a2c2.org/) this week, presenting our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579).
 
 - September 16, 2025 — Submitted a paper ["Online Learning of Deceptive Policies under Intermittent Observation"](https://arxiv.org/abs/2509.14453). This paper uses Theory of Mind (ToM) to inform online reinforcement learning (RL), and thus design deceptive policies for an agent in the setting of supervisory control.
 
@@ -45,7 +45,7 @@ News
 
 - July 4, 2025 — I was at the [11th IFAC Symposium on Robust Control Design](https://conferences.ifac-control.org/rocond2025/) this week, and was selected as a finalist for the IFAC Young Author Award for our paper ["Energetic Resilience of Linear Driftless Systems"](https://arxiv.org/abs/2410.00323).
 
-- June 24, 2025 — Our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579) has been accepted for presentation at the [_5th Modeling, Estimation and Control Conference (MECC)_](https://mecc2025.a2c2.org/) in October!
+- June 24, 2025 — Our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579) has been accepted for presentation at the [5th Modeling, Estimation and Control Conference (MECC)](https://mecc2025.a2c2.org/) in October!
 
 - June 8, 2025 — Our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105) has been accepted to _IEEE Control Systems Letters_!
 
