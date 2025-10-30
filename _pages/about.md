@@ -37,6 +37,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- October 10, 2025 — I will be co-chairing the "Robotics and Control" session at the [2026 CSL Student Conference](https://studentconference.csl.illinois.edu/).
+
 - October 9, 2025 — I was at the [5th Modeling, Estimation and Control Conference (MECC)](https://mecc2025.a2c2.org/) this week, presenting our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579).
 
 - September 16, 2025 — Submitted a paper ["Online Learning of Deceptive Policies under Intermittent Observation"](https://arxiv.org/abs/2509.14453). This paper uses Theory of Mind (ToM) to inform online reinforcement learning (RL), and thus design deceptive policies for an agent in the setting of supervisory control.
