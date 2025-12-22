@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Prof. Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
+I'm a third-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Prof. Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
 
 I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and resilience of systems whose dynamics are affected by system faults or adversaries. In relation to this, I have worked on quantifying the resilience of nonlinear dynamical systems under partial adversarial actions.
 
@@ -37,6 +37,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- December 13, 2025 — I was at the [64th IEEE Conference on Decision and Control (CDC)](https://cdc2025.ieeecss.org/) this week, presenting our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105).
+
 - October 10, 2025 — I will be co-chairing the "Robotics and Control" session at the [2026 CSL Student Conference](https://studentconference.csl.illinois.edu/).
 
 - October 9, 2025 — I was at the [5th Modeling, Estimation and Control Conference (MECC)](https://mecc2025.a2c2.org/) this week, presenting our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579).
