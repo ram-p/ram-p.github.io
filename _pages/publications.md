@@ -12,10 +12,10 @@ Preprints and Submitted Material
 
 1. **R. Padmanabhan** and M. Ornik, ["Ignore Drift, Embrace Simplicity: Constrained Nonlinear Control through Driftless Approximation,"](https://arxiv.org/abs/2509.06188) arXiv:2509.06188 [math.OC], Sep. 2025.
 
-1. **R. Padmanabhan** and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://arxiv.org/abs/2502.07603) arXiv:2502.07603 [math.OC], Feb. 2025.
-
 Journal Articles
 ------
+
+1. **R. Padmanabhan** and M. Ornik, "Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority," _Automatica_, 2026 (in press).
 
 1. **R. Padmanabhan**, A. Aspeel, N. Ozay, and M. Ornik, ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance,"](https://ieeexplore.ieee.org/document/11036760) _IEEE Control Systems Letters_, 9, pp. 1784--1789, Jul. 2025 (presented at _64th IEEE Conference on Decision and Control (CDC)_, Dec. 2025). \[Available at [arXiv:2505.13105](https://arxiv.org/abs/2505.13105)\]
 
@@ -30,7 +30,7 @@ Journal Articles
 Conference Papers
 ------
 
-1. S. A. Dinkar, **R. Padmanabhan**, A. Clarke, P.-O. Gutman, and M. Ornik, "Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities," in _5th Modeling, Estimation and Control Conference (MECC)_, Pittsburgh, PA, USA, Oct. 2025. \[Available at [arXiv:2504.08579](https://arxiv.org/abs/2504.08579)\]
+1. S. A. Dinkar, **R. Padmanabhan**, A. Clarke, P.-O. Gutman, and M. Ornik, ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://www.sciencedirect.com/science/article/pii/S2405896325029623) in _5th Modeling, Estimation and Control Conference (MECC)_, Pittsburgh, PA, USA, Oct. 2025. \[Available at [arXiv:2504.08579](https://arxiv.org/abs/2504.08579)\]
 
 1. **R. Padmanabhan** and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,"](https://www.sciencedirect.com/science/article/pii/S2405896325014922) in _11th IFAC Symposium on Robust Control Design (ROCOND)_, Porto, Portugal, Jul. 2025. _(Selected as Finalist, IFAC Young Author Award.)_ \[Available at [arXiv:2410.00323](https://arxiv.org/abs/2410.00323)\]
 

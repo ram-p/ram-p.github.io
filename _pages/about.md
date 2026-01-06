@@ -37,6 +37,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- January 6, 2026 — Our paper ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority"](https://arxiv.org/abs/2502.07603) has been accepted as a brief paper in _Automatica_!
+
 - December 13, 2025 — I was at the [64th IEEE Conference on Decision and Control (CDC)](https://cdc2025.ieeecss.org/) this week, presenting our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105).
 
 - October 10, 2025 — I will be co-chairing the "Robotics and Control" session at the [2026 CSL Student Conference](https://studentconference.csl.illinois.edu/).
