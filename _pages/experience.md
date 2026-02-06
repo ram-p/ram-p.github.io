@@ -7,6 +7,9 @@ author_profile: true
 
 Teaching
 ------
+- **Graduate Teaching Assistant**, University of Illinois Urbana-Champaign \
+_AE 498 ARO — Advanced Review of Basic Mathematics_, January — May 2026
+
 - **Graduate Student Instructor**, University of Michigan, Ann Arbor \
 _EECS 460 — Control System Analysis and Design_, January — April 2023 \
 Taught two discussion sessions each week, held office hours and graded exams.

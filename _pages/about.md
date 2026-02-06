@@ -37,6 +37,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- January 29, 2026 — I will be a Graduate Teaching Assistant for AE 498 ARO: Advanced Review of Basic Mathematics this semester.
+
 - January 6, 2026 — Our paper ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority"](https://arxiv.org/abs/2502.07603) has been accepted as a brief paper in _Automatica_!
 
 - December 13, 2025 — I was at the [64th IEEE Conference on Decision and Control (CDC)](https://cdc2025.ieeecss.org/) this week, presenting our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105).
@@ -56,7 +58,3 @@ News
 - June 8, 2025 — Our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105) has been accepted to _IEEE Control Systems Letters_!
 
 - June 7, 2025 — I was at the [7th Annual Learning for Dynamics & Control Conference](https://sites.google.com/umich.edu/l4dc2025/) at the University of Michigan, Ann Arbor this week.
-
-- May 6, 2025 — I have received the [Joan and Lalit Bahl Fellowship](https://ece.illinois.edu/academics/grad/fellowships/bahl) for the 2025-26 academic year.
-
-- April 27, 2025 — I was at the [11th Midwest Workshop on Control and Game Theory](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/) at UIUC this weekend, and presented a poster on our recently submitted paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105).
