@@ -37,13 +37,15 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
-- January 29, 2026 — I will be a Graduate Teaching Assistant for AE 498 ARO: Advanced Review of Basic Mathematics this semester.
+- February 25, 2026 — We successfully conducted the [2026 CSL Student Conference](https://studentconference.csl.illinois.edu/), where I was a chair for the _Robotics and Control_ Session.
+
+- January 29, 2026 — I will be a Graduate Teaching Assistant for _AE 498 ARO: Advanced Review of Basic Mathematics_ this semester.
 
 - January 6, 2026 — Our paper ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority"](https://arxiv.org/abs/2502.07603) has been accepted as a brief paper in _Automatica_!
 
 - December 13, 2025 — I was at the [64th IEEE Conference on Decision and Control (CDC)](https://cdc2025.ieeecss.org/) this week, presenting our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105).
 
-- October 10, 2025 — I will be co-chairing the "Robotics and Control" session at the [2026 CSL Student Conference](https://studentconference.csl.illinois.edu/).
+- October 10, 2025 — I will be co-chairing the _Robotics and Control_ session at the [2026 CSL Student Conference](https://studentconference.csl.illinois.edu/).
 
 - October 9, 2025 — I was at the [5th Modeling, Estimation and Control Conference (MECC)](https://mecc2025.a2c2.org/) this week, presenting our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579).
 
