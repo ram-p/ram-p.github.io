@@ -15,7 +15,7 @@ Preprints and Submitted Material
 Journal Articles
 ------
 
-1. **R. Padmanabhan** and M. Ornik, "Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority," _Automatica_, 2026 (to appear).
+1. **R. Padmanabhan** and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://www.sciencedirect.com/science/article/pii/S0005109826000828) _Automatica_, 187, May 2026. \[Extended version available at [arXiv:2502.07603](https://arxiv.org/abs/2502.07603)\]
 
 1. **R. Padmanabhan**, A. Aspeel, N. Ozay, and M. Ornik, ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance,"](https://ieeexplore.ieee.org/document/11036760) _IEEE Control Systems Letters_, 9, pp. 1784--1789, Jul. 2025 (presented at _64th IEEE Conference on Decision and Control (CDC)_, Dec. 2025). \[Available at [arXiv:2505.13105](https://arxiv.org/abs/2505.13105)\]
 
