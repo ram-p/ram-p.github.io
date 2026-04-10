@@ -37,6 +37,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- April 2, 2026 — Submitted three papers; see the [Publications](https://ram-p.github.io/publications/) section for more information.
+
 - March 25, 2026 — I passed my [preliminary examination](https://ece.illinois.edu/academics/grad/msphd-manual/phd#prelim) today, and am in the final stage of my PhD!
 
 - February 25, 2026 — We successfully conducted the [2026 CSL Student Conference](https://studentconference.csl.illinois.edu/), where I was a chair for the _Robotics and Control_ Session.
