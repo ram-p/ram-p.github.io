@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Prof. Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
+I'm a third-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
 
 I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and resilience of systems whose dynamics are affected by system faults or adversaries. In relation to this, I have worked on quantifying the resilience of nonlinear dynamical systems under partial adversarial actions.
 
 I am currently working on designing controllers for systems suffering such adversarial attacks, in a theoretically rigorous and scalable manner. I am also interested in quantifying resilience of nonlinear networks and in problems relating to deceiving adversaries in stochastic environments.
 
-I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Prof. Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
+I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
 
 You can find my CV [here](https://ram-p.github.io/files/CV_RP.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
 
@@ -24,19 +24,21 @@ Education
 ------
 - **Ph.D. Electrical and Computer Engineering** _(Current)_ \
 University of Illinois Urbana-Champaign, Urbana, IL, USA. \
-Advisor: Prof. Melkior Ornik
+Advisor: Melkior Ornik
 
 - **M.S. Electrical and Computer Engineering**, 2023 \
 University of Michigan, Ann Arbor, MI, USA. \
-Advisor: Prof. Peter Seiler
+Advisor: Peter Seiler
 
 - **B.Tech Electronics and Communication Engineering**, 2021 \
 PES University, Bengaluru, India. \
-Advisors: Prof. Rajini Makam and Prof. Koshy George \
+Advisors: Rajini Makam and Koshy George \
 Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- April 26, 2026 — I was at the [12th Midwest Workshop on Control and Game Theory](https://sites.google.com/view/mwcgt) this weekend, where I presented a poster on our recent submission ["Energetic Resilience under Temporal Logic Specifications"](https://arxiv.org/abs/2604.14203).
+
 - April 2, 2026 — Submitted three papers; see the [Publications](https://ram-p.github.io/publications/) section for more information.
 
 - March 25, 2026 — I passed my [preliminary examination](https://ece.illinois.edu/academics/grad/msphd-manual/phd#prelim) today, and am in the final stage of my PhD!

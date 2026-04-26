@@ -12,7 +12,7 @@ Preprints and Submitted Material
 
 1. **R. Padmanabhan** and N. Mehr, "Robust Decentralized Multi-Agent Reinforcement Learning through Risk Sensitivity," Apr. 2026.
 
-1. R. Das, **R. Padmanabhan**, M. Ornik, and P. Jagtap, "Energetic Resilience under Temporal Logic Specifications," Apr. 2026.
+1. R. Das, **R. Padmanabhan**, M. Ornik, and P. Jagtap, ["Energetic Resilience under Temporal Logic Specifications,"](https://arxiv.org/abs/2604.14203) arXiv:2604.14203 [eess.SY], Apr. 2026.
 
 1. G. Puthumanaillam, **R. Padmanabhan**, J. Fuentes, N. Cruz, P. Padrao, R. Hernandez, H. Jiang, W. Schafer, L. Bobadilla, and M. Ornik, ["Online Learning of Deceptive Policies under Intermittent Observation,"](https://arxiv.org/abs/2509.14453) arXiv:2509.14453 [cs.RO], Sep. 2025.
 
