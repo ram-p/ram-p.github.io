@@ -37,8 +37,6 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
-- May 4, 2026 — Our white paper ["A Vision for STEM Higher Education in the Face of AI"](https://osf.io/preprints/edarxiv/nzd53_v1) is now available on EdArXiv. This white paper is a joint effort across the University of Illlinois, and seeks to address the growing challenges in higher education, classroom teaching and learning as well as academic research in view of increased capabilities of Generative AI. The core of this paper presents predictions on what the future of each of these areas may look like.
-
 - April 26, 2026 — I was at the [12th Midwest Workshop on Control and Game Theory](https://sites.google.com/view/mwcgt) this weekend, where I presented a poster on our recent submission ["Energetic Resilience under Temporal Logic Specifications"](https://arxiv.org/abs/2604.14203).
 
 - April 2, 2026 — Submitted three papers; see the [Publications](https://ram-p.github.io/publications/) section for more information.
