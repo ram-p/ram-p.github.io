@@ -8,6 +8,8 @@ author_profile: true
 Preprints and Submitted Material
 ------
 
+1. **R. Padmanabhan**, M. Fowler, K. Huff, M. Neubauer, and M. Ornik, ["A Vision for STEM Higher Education in the Face of AI,"](https://osf.io/preprints/edarxiv/nzd53_v1), EdArXiv:Nzd53_v1, May 2026.
+
 1. **R. Padmanabhan** and M. Ornik, ["Finite-time Reachability for Constrained, Partially Uncontrolled Nonlinear Systems,"](https://arxiv.org/abs/2604.08327) arXiv:2604.08327 [math.OC], Apr. 2026.
 
 1. **R. Padmanabhan** and N. Mehr, "Robust Decentralized Multi-Agent Reinforcement Learning through Risk Sensitivity," Apr. 2026.

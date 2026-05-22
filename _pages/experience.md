@@ -8,7 +8,8 @@ author_profile: true
 Teaching
 ------
 - **Graduate Teaching Assistant**, University of Illinois Urbana-Champaign \
-_AE 498 ARO — Advanced Review of Basic Mathematics_, January — May 2026
+_AE 498 ARO — Advanced Review of Basic Mathematics_, January — May 2026 \
+Constructed problems for homeworks and exams, and held office hours.
 
 - **Graduate Student Instructor**, University of Michigan, Ann Arbor \
 _EECS 460 — Control System Analysis and Design_, January — April 2023 \
