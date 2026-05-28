@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "air"
 title                    : "Ram Padmanabhan"
 title_separator          : "-"
 name                     : &name "Ram Padmanabhan"
