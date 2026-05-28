@@ -15,7 +15,7 @@ $text-muted                : #5c6d6a;
 $link                      : #11999e;
 $link-dark                 : mix(#000, $link, 25%);
 $link-light                : mix(#fff, $link, 25%);
-$footer                    : #30e3ca;
+$footer                    : $link
 $border                    : mix(#fff, #40514e, 75%);
 $border-dark               : mix(#fff, #40514e, 60%);
 
