@@ -25,7 +25,6 @@ where \\(E_N\\) and \\(E_D\\) are the energies used in the *nominal* and *distur
 
 <img src="https://ram-p.github.io/images/rAvsR.png" alt = "Additive Metric" width="300"/> <img src="https://ram-p.github.io/images/rMvsR.png" alt = "Multiplicative Metric" width="300"/>
 
-
 # Past Research
 
 Here are some things I've worked on in the past. (See the [Publications](https://ram-p.github.io/publications/) section for more information.)
