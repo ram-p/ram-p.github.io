@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 toc: true
 author_profile: true
 ---
+{% include toc %}
 
 My research broadly focuses on resilience quantification and design in nonlinear systems and networks, under adversarial influences or system faults. A general theme in my research is **"ensuring safe and resilient behavior of systems under adversarial effects"**, in the context of systems operating in a hostile environment. Such effects can be modeled as: (a) arbitrary, bounded disturbances affecting system dynamics, (b) changes in the structure of actuated inputs, possibly through adversarial takeover, or (c) any sudden changes in system dynamics, often caused by component failures. This page briefly describes my contributions to this research theme.
 
