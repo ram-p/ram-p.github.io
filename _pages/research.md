@@ -18,12 +18,16 @@ A significant portion of my research has been devoted to assigning quantitative 
 ## Under Bounded Disturbances
 
 The first contribution in resilience quantification considers simple linear systems subject to bounded disturbances, and attempts to quantify the "cost of disturbance" in regulating a system in finite time [[1]](#1). This quantification derives bounds on both additive and multiplicative metrics of the form
-\\[
+$$
 r_A = \sup_{\|x_0\|_2 \leq R} E_D - E_N; ~~~ r_M = \inf_{\|x_0\|_2 \geq R} \frac{E_N}{E_D},
-\\]
+$$
 where \\(E_N\\) and \\(E_D\\) are the energies used in the *nominal* and *disturbed* case respectively. Simply put, each metric measures the worst-case impact of the bounded disturbance on the energy expended by the system. The following figures show how these metrics vary with \\(R\\), the distance of \\(x_0\\) from the origin.
 
 <img src="https://ram-p.github.io/images/rAvsR.png" alt = "Additive Metric" width="300"/> <img src="https://ram-p.github.io/images/rMvsR.png" alt = "Multiplicative Metric" width="300"/>
+
+## Under a Partial Loss in Control Authority
+
+
 
 # Past Research
 
