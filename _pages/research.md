@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: ""
+title: "Research"
 permalink: /research/
+excerpt_separator: <!--more-->
 toc: true
 author_profile: true
 ---
