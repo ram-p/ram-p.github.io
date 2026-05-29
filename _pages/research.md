@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: "default"
+layout: default
 permalink: /research/
 excerpt_separator: <!--more-->
 toc: true
