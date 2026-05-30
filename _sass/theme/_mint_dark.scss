@@ -37,7 +37,7 @@ html[data-theme="dark"] {
   --global-base-color                 : #{$primary-color};
   --global-bg-color                   : #{$background};
   --global-footer-bg-color            : #{$footer};
-  --global-border-color               : #{$border};
+  --global-border-color               : #{$link-light};
   --global-dark-border-color          : #{$border-light};
   --global-code-background-color      : #{$background-light};
   --global-code-text-color            : #{$text-muted};
