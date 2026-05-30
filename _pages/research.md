@@ -56,7 +56,7 @@ Based on the Multiple Models, Switching and Tuning (MMST) methodology, a new est
 
 Discrete-time Uncertainty and Disturbance Estimator
 ------
-<img src="https://ram-p.github.io/images/DT-UDE.png" alt = "Discrete-time UDE" width="500"/>
+<img src="https://ram-p.github.io/images/DT-UDE_BG.png" alt = "Discrete-time UDE" width="500"/>
 
 A discrete-time version of the Uncertainty and Disturbance Estimator (UDE), a robust control strategy, is presented. This work proposes a new digital filter for disturbance estimation and compensation to derive a discrete-time error-based control law and prove stability. Interfacing with continuous-time systems uses a digital-analog converter and a zero-order-hold. A discrete-time controller—observer structure is also proposed, to address the case when only system outputs are accessible. Simulations on a variety of linear and nonlinear systems, including well-known systems in aerospace engineering and robotics, demonstrate the efficacy of the proposed methods.
 
