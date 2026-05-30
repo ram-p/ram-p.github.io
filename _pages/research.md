@@ -50,7 +50,7 @@ This work uses the framework of Integral Quadratic Constraints (IQCs), a tool fr
 
 Multiple Models in Adaptive ILC
 ------
-<img src="https://ram-p.github.io/images/MM-AILC.png" alt = "Multiple Models in AILC" width="300"/>
+<img src="https://ram-p.github.io/images/MM-AILC_BG.png" alt = "Multiple Models in AILC" width="300"/>
 
 Based on the Multiple Models, Switching and Tuning (MMST) methodology, a new estimation and control procedure for discrete-time Adaptive Iterative Learning Control is proposed. This uses the analogy between the discrete-time axis and the iteration axis in Iterative Learning Control. Simulations demonstrate improved performance using multiple models for various classes of systems, even when tracking an iteration-varying reference.
 
