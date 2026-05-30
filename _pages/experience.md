@@ -22,7 +22,8 @@ Taught two discussion sessions each week, held office hours and graded exams.
 Mentoring
 ------
 - [Undergraduate Research Apprenticeship Program (URAP)](https://grad.illinois.edu/urap)\
-University of Illinois Urbana-Champaign, August 2024 — May 2025
+University of Illinois Urbana-Champaign, August 2024 — May 2025 \
+Mentored an undergraduate student at UIUC on the use of the particle filter for three-dimensional robot localization, and received the Graduate College Mentoring Certificate.
 
 - [Promoting Undergraduate Research in Engineering (PURE)](https://pure.engr.illinois.edu/)\
 University of Illinois Urbana-Champaign, August — December 2023 \

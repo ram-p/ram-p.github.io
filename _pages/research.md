@@ -3,6 +3,7 @@ title: ""
 permalink: /research/
 excerpt_separator: <!--more-->
 toc: true
+layout: archive
 author_profile: true
 ---
 {% include toc %}
@@ -27,7 +28,11 @@ where \\(E_N\\) and \\(E_D\\) are the energies used in the *nominal* and *distur
 
 ## Under a Partial Loss in Control Authority
 
+The focus now shifts to systems under actuation constraints that lose authority over a subset of their actuators, termed a *partial loss in control authority*. Such a setting has prior practical, real-world motivation [[2]](#2), and has seen some investigation in the past by Bouvier *et al.* ([[3]](#3) and referenced papers within). However, these works have considered only linear systems, with resilience quantification in terms of reachable time. Using control energy as above, I am able to derive approximate bounds on metrics for resilience quantification even for nonlinear systems.
 
+The first part of this work [[4]](#4) considers simple linear, driftless dynamics and derives bounds on metrics similar to those defined earlier. These results are eventually used to approximate a bound on the additive metric for nonlinear systems [[5]](#5) using approximate bounds on the worst-case total energy used. A key result in this work is proving that the difference between system responses of linear driftless dynamics and nonlinear dynamics is bounded under appropriate structural conditions. The two figures below show the behavior of the different metrics, on the left for linear driftless systems, and on the right for nonlinear systems.
+
+<img src="https://ram-p.github.io/images/DftRes.png" alt = "Driftless Systems" width="300"/> <img src="https://ram-p.github.io/images/NLRes.png" alt = "Nonlinear Systems" width="300"/>
 
 # Past Research
 
@@ -55,3 +60,15 @@ A discrete-time version of the Uncertainty and Disturbance Estimator (UDE), a ro
 
 <a id="1">[1]</a> 
 R. Padmanabhan, C. Bakker, S. A. Dinkar, and M. Ornik, ["How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances,"](https://ieeexplore.ieee.org/document/10886030) in _63rd IEEE Conference on Decision and Control (CDC)_, Milan, Italy, Dec. 2024. \[Available at [arXiv:2408.10913](https://arxiv.org/abs/2408.10913)\]
+
+<a id="2">[2]</a> 
+M. Bartels, "Russia’s Nauka module briefly tilts space station with unplanned thruster fire," Aug. 2021. [Online]. Available: https://www.space.com/nauka-module-thruster-fire-tilts-space-station
+
+<a id="3">[3]</a> 
+J.-B. Bouvier and M. Ornik, ["Resilience of linear systems to partial loss of control authority,"](https://www.sciencedirect.com/science/article/pii/S0005109823001383) _Automatica_, vol. 152, June 2023.
+
+<a id="4">[4]</a>
+**R. Padmanabhan** and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,"](https://www.sciencedirect.com/science/article/pii/S2405896325014922) in _11th IFAC Symposium on Robust Control Design (ROCOND)_, Porto, Portugal, Jul. 2025. \[Available at [arXiv:2410.00323](https://arxiv.org/abs/2410.00323)\]
+
+<a id="5">[5]</a>
+**R. Padmanabhan** and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://www.sciencedirect.com/science/article/pii/S0005109826000828) _Automatica_, 187, May 2026. \[Extended version available at [arXiv:2502.07603](https://arxiv.org/abs/2502.07603)\]
