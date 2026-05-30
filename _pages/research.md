@@ -28,11 +28,15 @@ where \\(E_N\\) and \\(E_D\\) are the energies used in the *nominal* and *distur
 
 ## Under a Partial Loss in Control Authority
 
-The focus now shifts to systems under actuation constraints that lose authority over a subset of their actuators, termed a *partial loss in control authority*. Such a setting has prior practical, real-world motivation [[2]](#2), and has seen some investigation in the past by Bouvier *et al.* ([[3]](#3) and referenced papers within). However, these works have considered only linear systems, with resilience quantification in terms of reachable time. Using control energy as above, I am able to derive approximate bounds on metrics for resilience quantification even for nonlinear systems.
+The focus now shifts to systems under actuation constraints that lose authority over a subset of their actuators, termed a *partial loss in control authority*. Such a setting has prior practical, real-world motivation [[2]](#2), and has seen some investigation in the past by Bouvier *et al.* ([[3]](#3) and referenced papers within). However, these works have considered only linear systems, with resilience quantification in terms of reachable time. Using control energy as above, I am able to derive approximate bounds on *energetic resilience* metrics, even for nonlinear systems.
 
 The first part of this work [[4]](#4) considers simple linear, driftless dynamics and derives bounds on metrics similar to those defined earlier. These results are eventually used to approximate a bound on the additive metric for nonlinear systems [[5]](#5) using approximate bounds on the worst-case total energy used. A key result in this work is proving that the difference between system responses of linear driftless dynamics and nonlinear dynamics is bounded under appropriate structural conditions. The two figures below show the behavior of the different metrics, on the left for linear driftless systems, and on the right for nonlinear systems.
 
 <img src="https://ram-p.github.io/images/DftRes.png" alt = "Driftless Systems" width="300"/> <img src="https://ram-p.github.io/images/NLRes.png" alt = "Nonlinear Systems" width="300"/>
+
+# Resilient Design
+
+The second broad theme of my research concerns *designing* resilient behavior in dynamical systems, i.e., how do we design inputs to ensure resilient behavior, under hostile effects as described earlier?
 
 # Past Research
 
@@ -65,10 +69,10 @@ R. Padmanabhan, C. Bakker, S. A. Dinkar, and M. Ornik, ["How Much Reserve Fuel: 
 M. Bartels, "Russia’s Nauka module briefly tilts space station with unplanned thruster fire," Aug. 2021. [Online]. Available: https://www.space.com/nauka-module-thruster-fire-tilts-space-station
 
 <a id="3">[3]</a> 
-J.-B. Bouvier and M. Ornik, ["Resilience of linear systems to partial loss of control authority,"](https://www.sciencedirect.com/science/article/pii/S0005109823001383) _Automatica_, vol. 152, June 2023.
+J.-B. Bouvier and M. Ornik, ["Resilience of linear systems to partial loss of control authority,"](https://www.sciencedirect.com/science/article/pii/S0005109823001383) _Automatica_, 152, June 2023.
 
 <a id="4">[4]</a>
-**R. Padmanabhan** and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,"](https://www.sciencedirect.com/science/article/pii/S2405896325014922) in _11th IFAC Symposium on Robust Control Design (ROCOND)_, Porto, Portugal, Jul. 2025. \[Available at [arXiv:2410.00323](https://arxiv.org/abs/2410.00323)\]
+R. Padmanabhan and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,"](https://www.sciencedirect.com/science/article/pii/S2405896325014922) in _11th IFAC Symposium on Robust Control Design (ROCOND)_, Porto, Portugal, Jul. 2025. \[Available at [arXiv:2410.00323](https://arxiv.org/abs/2410.00323)\]
 
 <a id="5">[5]</a>
-**R. Padmanabhan** and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://www.sciencedirect.com/science/article/pii/S0005109826000828) _Automatica_, 187, May 2026. \[Extended version available at [arXiv:2502.07603](https://arxiv.org/abs/2502.07603)\]
+R. Padmanabhan and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://www.sciencedirect.com/science/article/pii/S0005109826000828) _Automatica_, 187, May 2026. \[Extended version available at [arXiv:2502.07603](https://arxiv.org/abs/2502.07603)\]
