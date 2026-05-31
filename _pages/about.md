@@ -10,11 +10,13 @@ redirect_from:
 
 I'm a final-year PhD candidate in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
 
-I am broadly interested in problems in control, learning and optimization. I am currently focused on optimal control and resilience of systems whose dynamics are affected by system faults or adversaries. In relation to this, I have worked on quantifying the resilience of nonlinear dynamical systems under partial adversarial actions.
+I am broadly interested in problems in control, learning and optimization. My research currently focuses on optimal control and resilience for systems whose dynamics are affected by system faults or adversaries. In this area, I am interested in (and have worked on) resilience quantification and resilient design for nonlinear systems and networks, potentially operating in a hostile environment. 
 
-I am currently working on designing controllers for systems suffering such adversarial attacks, in a theoretically rigorous and scalable manner. I am also interested in quantifying resilience of nonlinear networks and in problems relating to deceiving adversaries in stochastic environments.
+My research combines tools from nonlinear control, optimal control and optimization, and is motivated by considerations of scalability and computational efficiency with underlying theoretical rigor. See my [Research](https://ram-p.github.io/research/) page for more details. In the near future, I will continue to work on designing controllers for such systems suffering adversarial effects, and am especially interested in learning-based solutions to this problem. 
 
-I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent. 
+Some of my other work has involved multi-agent reinforcement learning and the use of learning to deceive adversaries in stochastic environments.
+
+I received the [Joan and Lalit Bahl Fellowship](https://ece.illinois.edu/academics/grad/fellowships/bahl) for two years between 2024 and 2026, and was a finalist of the IFAC Young Author Award in 2025. I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
 
 You can find my CV [here](https://ram-p.github.io/files/CV_RP.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
 
@@ -26,6 +28,7 @@ Education
 - **Ph.D. Electrical and Computer Engineering** _(Current)_ \
 University of Illinois Urbana-Champaign, Urbana, IL, USA. \
 Advisor: Melkior Ornik
+Thesis: _Resource-Aware System Design and Resilience Quantification_
 
 - **M.S. Electrical and Computer Engineering**, 2023 \
 University of Michigan, Ann Arbor, MI, USA. \
