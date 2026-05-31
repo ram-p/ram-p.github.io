@@ -72,7 +72,7 @@ In this line of work, I re-focus on the setting of *partial loss in control auth
 R. Padmanabhan, C. Bakker, S. A. Dinkar, and M. Ornik, ["How Much Reserve Fuel: Quantifying the Maximal Energy Cost of System Disturbances,"](https://ieeexplore.ieee.org/document/10886030) in _63rd IEEE Conference on Decision and Control (CDC)_, Milan, Italy, Dec. 2024. \[Available at [arXiv:2408.10913](https://arxiv.org/abs/2408.10913)\]
 
 <a id="2">[2]</a> 
-M. Bartels, "Russia’s Nauka module briefly tilts space station with unplanned thruster fire," Aug. 2021. [Online]. Available: https://www.space.com/nauka-module-thruster-fire-tilts-space-station
+M. Bartels, "Russia’s Nauka module briefly tilts space station with unplanned thruster fire," Aug. 2021. [Online]. Available: [https://www.space.com/nauka-module-thruster-fire-tilts-space-station](https://www.space.com/nauka-module-thruster-fire-tilts-space-station)
 
 <a id="3">[3]</a> 
 J.-B. Bouvier and M. Ornik, ["Resilience of linear systems to partial loss of control authority,"](https://www.sciencedirect.com/science/article/pii/S0005109823001383) _Automatica_, 152, June 2023.
