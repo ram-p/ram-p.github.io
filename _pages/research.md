@@ -34,9 +34,31 @@ The first part of this work [[4]](#4) considers simple linear, driftless dynamic
 
 <img src="https://ram-p.github.io/images/DftRes.png" alt = "Driftless Systems" width="300"/> <img src="https://ram-p.github.io/images/NLRes.png" alt = "Nonlinear Systems" width="300"/>
 
+## Under Temporal Logic Specifications
+
+The work discussed above uses only simple specifications of reaching a target set. We are currently exploring extending the notion of energetic resilience to systems with more complex specifications encoded through temporal logic. A first step towards this is presented in [[6]](#6), where we show how satisfying finite-horizon safety and reachability specifications can be rewritten as convex programs. We then show how the energetic resilience metric may be computed on this basis, with corresponding optimal controllers also emerging. Importantly, we prove certain compositional properties of the metric, describing how it may be computed when multiple specifications are chained together. The figures below show satisfying a complex specification for a mobile robot, as well as variation in the energetic resilience with initial state.
+
+<img src="https://ram-p.github.io/images/Robot.png" alt = "Safe Reachability for a Mobile Robot" width="300"/> <img src="https://ram-p.github.io/images/TLRes.png" alt = "Energetic Resilience under Temporal Logic Specifications" width="300"/>
+
+The focus of ongoing work is to develop a more comprehensive theory of resilience when a system's specifications change, likely involving ways to measure distances between multiple specifications.
+
 # Resilient Design
 
 The second broad theme of my research concerns *designing* resilient behavior in dynamical systems, i.e., how do we design inputs to ensure resilient behavior, under hostile effects as described earlier?
+
+## System Level Synthesis in a Switched Systems Framework
+
+System faults or adversarial effects can cause an abrupt change in dynamics in a control system, a framework that can be modeled through switched systems. A shift from nominal (1) to faulty (2) operation is depicted in the first figure here. In [[7]](#7), we address the problem of solving optimal control problems for such systems, motivated by issues in fault tolerance. As such problems are commonly non-convex in controller parameters, we use the framework of *System Level Synthesis (SLS)* to "convexify" these problems.
+
+<img src="https://ram-p.github.io/images/FaultModel.png" alt = "Fault Model" width="300"/>
+
+We present two broad classes of optimal control problems, depending on whether the switching signal is chosen stochastically or non-deterministically, and impose a prefix constraint which ensures the controller cannot depend on future values of the switching signal. Crucially, such a constraint is still linear in the SLS parameterization, despite the fact that SLS itself uses a nonlinear transformation on the original parameterization. This property leads to efficient convex reformulations of the original optimal control problems. The figure below shows the impact of controller memory on an optimal control problem which aims to minimize the maximum deviation of the state from the origin.
+
+<img src="https://ram-p.github.io/images/L1.png" alt = "L1-optimal control" width="300"/>
+
+Ongoing work is being devoted to improving scalability of the resulting convex programs, in particular by limiting measurement and switching signal memory, as well as clustering methods that use a single controller for a cluster of possible paths.
+
+## Constrained Nonlinear Control through Driftless Approximation
 
 # Past Research
 
@@ -76,3 +98,6 @@ R. Padmanabhan and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,
 
 <a id="5">[5]</a>
 R. Padmanabhan and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://www.sciencedirect.com/science/article/pii/S0005109826000828) _Automatica_, 187, May 2026. \[Extended version available at [arXiv:2502.07603](https://arxiv.org/abs/2502.07603)\]
+
+<a id="7">[7]</a>
+R. Padmanabhan, A. Aspeel, N. Ozay, and M. Ornik, ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance,"](https://ieeexplore.ieee.org/document/11036760) _IEEE Control Systems Letters_, 9, pp. 1784--1789, Jul. 2025. \[Available at [arXiv:2505.13105](https://arxiv.org/abs/2505.13105)\]
