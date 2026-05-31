@@ -84,11 +84,10 @@ R. Padmanabhan and M. Ornik, ["Energetic Resilience of Linear Driftless Systems,
 R. Padmanabhan and M. Ornik, ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority,"](https://www.sciencedirect.com/science/article/pii/S0005109826000828) _Automatica_, 187, May 2026. \[Extended version available at [arXiv:2502.07603](https://arxiv.org/abs/2502.07603)\]
 
 <a id="6">[6]</a>
-R. Das, R. Padmanabhan**, M. Ornik, and P. Jagtap, ["Energetic Resilience under Temporal Logic Specifications,"](https://arxiv.org/abs/2604.14203) arXiv:2604.14203 [eess.SY], Apr. 2026.
+R. Das, R. Padmanabhan, M. Ornik, and P. Jagtap, ["Energetic Resilience under Temporal Logic Specifications,"](https://arxiv.org/abs/2604.14203) arXiv:2604.14203 [eess.SY], Apr. 2026.
 
 <a id="7">[7]</a>
 R. Padmanabhan, A. Aspeel, N. Ozay, and M. Ornik, ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance,"](https://ieeexplore.ieee.org/document/11036760) _IEEE Control Systems Letters_, 9, pp. 1784--1789, Jul. 2025. \[Available at [arXiv:2505.13105](https://arxiv.org/abs/2505.13105)\]
-<<<<<<< HEAD
 
 <a id="8">[8]</a>
 R. Padmanabhan and M. Ornik, ["Ignore Drift, Embrace Simplicity: Constrained Nonlinear Control through Driftless Approximation,"](https://arxiv.org/abs/2509.06188) arXiv:2509.06188 [math.OC], Sep. 2025.

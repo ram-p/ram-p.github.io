@@ -27,7 +27,7 @@ Education
 ------
 - **Ph.D. Electrical and Computer Engineering** _(Current)_ \
 University of Illinois Urbana-Champaign, Urbana, IL, USA. \
-Advisor: Melkior Ornik
+Advisor: Melkior Ornik \
 Thesis: _Resource-Aware System Design and Resilience Quantification_
 
 - **M.S. Electrical and Computer Engineering**, 2023 \
@@ -41,7 +41,7 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
-- May 4, 2026 — A new white paper on ["A Vision for STEM Higher Education in the Face of AI"](https://osf.io/preprints/edarxiv/nzd53_v1) is now available on EdArXiv. We present an overarching vision for the future of bachelor's degrees, classroom teaching and learning, research processes as well as the broader landscape of universities.
+- May 4, 2026 — A new white paper on ["A Vision for STEM Higher Education in the Face of AI"](https://osf.io/preprints/edarxiv/nzd53_v1) is now available on EdArXiv. We present an overarching vision for the future of bachelor's degrees, classroom teaching and learning, research processes as well as the broader landscape of universities, given the rapid technological development in generative AI.
 
 - April 26, 2026 — I was at the [12th Midwest Workshop on Control and Game Theory](https://sites.google.com/view/mwcgt) this weekend, where I presented a poster on our recent submission ["Energetic Resilience under Temporal Logic Specifications"](https://arxiv.org/abs/2604.14203).
 
