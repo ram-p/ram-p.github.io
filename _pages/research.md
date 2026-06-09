@@ -60,6 +60,8 @@ Ongoing work is being devoted to improving scalability of the resulting convex p
 
 ## Constrained Nonlinear Control through Driftless Approximation
 
+([The website for this project](https://ram-p.github.io/driftlessification/) contains additional illustrations demonstrating the performance of this technique.)
+
 In this line of work, I re-focus on the setting of *partial loss in control authority* for nonlinear systems, with the problem of reaching a target state. This approach builds on a novel constrained nonlinear control technique, based on a linear driftless approximation to the original dynamics [[8]](#8). For nominal nonlinear systems, I show that an optimal control law for the linear driftless 'proxy' system leads to bounded error over a finite horizon for the original system. The key step is to then partition the time horizon into successively smaller intervals through either a harmonic or geometric series, depending on whether the horizon is finite or infinite. Generating the above control laws in each interval, the error from the target state reduces to zero as the length of intervals reduce to zero. This procedure is adapted to partially uncontrolled nonlinear systems by including a convergent design parameter in the control inputs, which compensates for the effect of uncontrolled inputs [[9]](#9). The figures below show an example of a partition of the time horizon, as well as state and input trajectories for a fighter jet model subjected to nonlinear wind effects, suffering a loss of authority over its canard wing.
 
 <img src="https://ram-p.github.io/images/Partition.png" alt = "Partition of the time horizon" width="400"/>
