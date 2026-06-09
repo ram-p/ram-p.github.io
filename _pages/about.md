@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year PhD candidate in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
+I'm a third-year PhD candidate in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Melkior Ornik](https://mornik.web.illinois.edu/) at the LEADCAT group.
 
 I am broadly interested in problems in control, learning and optimization. My research currently focuses on optimal control and resilience for systems whose dynamics are affected by system faults or adversaries. In this area, I am interested in (and have worked on) resilience quantification and resilient design for nonlinear systems and networks, potentially operating in a hostile environment. 
 
