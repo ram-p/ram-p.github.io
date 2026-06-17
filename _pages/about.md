@@ -18,7 +18,7 @@ Some of my other work has involved multi-agent reinforcement learning and the us
 
 I received the [Joan and Lalit Bahl Fellowship](https://ece.illinois.edu/academics/grad/fellowships/bahl) for two years between 2024 and 2026, and was a finalist of the IFAC Young Author Award in 2025. I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
 
-You can find my CV [here](https://ram-p.github.io/files/CV_RP.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
+You can find my CV [here](https://ram-p.github.io/files/CV_RP_June26.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
 
 **Contact:** 360 Coordinated Science Laboratory, Urbana, IL 61801, USA. \
 **Email:** ramp3 \[at\] illinois \[dot\] edu
