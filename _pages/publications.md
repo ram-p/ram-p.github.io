@@ -14,9 +14,7 @@ Preprints and Submitted Material
 
 - **R. Padmanabhan** and N. Mehr, "Robust Decentralized Multi-Agent Reinforcement Learning through Risk Sensitivity," Apr. 2026.
 
-- R. Das, **R. Padmanabhan**, M. Ornik, and P. Jagtap, ["Energetic Resilience under Temporal Logic Specifications,"](https://arxiv.org/abs/2604.14203) arXiv:2604.14203 [eess.SY], Apr. 2026.
-
-- G. Puthumanaillam, **R. Padmanabhan**, J. Fuentes, N. Cruz, P. Padrao, R. Hernandez, H. Jiang, W. Schafer, L. Bobadilla, and M. Ornik, ["Online Learning of Deceptive Policies under Intermittent Observation,"](https://arxiv.org/abs/2509.14453) arXiv:2509.14453 [cs.RO], Sep. 2025.
+- R. Das\*, **R. Padmanabhan**\*, M. Ornik, and P. Jagtap, ["Energetic Resilience under Temporal Logic Specifications,"](https://arxiv.org/abs/2604.14203) arXiv:2604.14203 [eess.SY], Apr. 2026.
 
 - **R. Padmanabhan** and M. Ornik, ["Ignore Drift, Embrace Simplicity: Constrained Nonlinear Control through Driftless Approximation,"](https://arxiv.org/abs/2509.06188) arXiv:2509.06188 [math.OC], Sep. 2025.
 
@@ -37,6 +35,8 @@ Journal Articles
 
 Conference Papers
 ------
+
+- G. Puthumanaillam\*, **R. Padmanabhan**\*, J. Fuentes, N. Cruz, P. Padrao, R. Hernandez, H. Jiang, W. Schafer, L. Bobadilla, and M. Ornik, ["Online Learning of Deceptive Policies under Intermittent Observation,"](https://arxiv.org/abs/2509.14453) in _2025 IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS)_, Pittsburgh, PA, USA, Sep. 2026. \[Available at [arXiv:2509.14453](https://arxiv.org/abs/2509.14453)\]
 
 - S. A. Dinkar, **R. Padmanabhan**, A. Clarke, P.-O. Gutman, and M. Ornik, ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities,"](https://www.sciencedirect.com/science/article/pii/S2405896325029623) in _5th Modeling, Estimation and Control Conference (MECC)_, Pittsburgh, PA, USA, Oct. 2025. \[Available at [arXiv:2504.08579](https://arxiv.org/abs/2504.08579)\]
 
