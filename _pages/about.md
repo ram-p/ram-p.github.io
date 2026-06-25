@@ -41,6 +41,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+- June 26, 2026 — I gave a talk at the [Robert Bosch Centre for Cyber-Physical Systems](https://cps.iisc.ac.in/) at the [Indian Institute of Science](https://www.iisc.ac.in/) today, as part of the [CORAL Talk Series](https://sites.google.com/view/coraltalks/home), on "Resilient Nonlinear Control under Adversarial Effects."
+
 - June 16, 2026 — Our paper ["Online Learning of Deceptive Policies under Intermittent Observation"](https://arxiv.org/abs/2509.14453) has been accepted to the [2026 IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS)](https://2026.ieee-iros.org/)!
 
 - May 4, 2026 — A new white paper on ["A Vision for STEM Higher Education in the Face of AI"](https://osf.io/preprints/edarxiv/nzd53_v1) is now available on EdArXiv. We present an overarching vision for the future of bachelor's degrees, classroom teaching and learning, research processes as well as the broader landscape of universities, given the rapid technological development in generative AI.
