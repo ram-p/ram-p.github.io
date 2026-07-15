@@ -95,4 +95,4 @@ R. Padmanabhan, A. Aspeel, N. Ozay, and M. Ornik, ["Mode-Prefix-Based Control of
 R. Padmanabhan and M. Ornik, ["Ignore Drift, Embrace Simplicity: Constrained Nonlinear Control through Driftless Approximation,"](https://arxiv.org/abs/2509.06188) arXiv:2509.06188 [math.OC], Sep. 2025.
 
 <a id="9">[9]</a>
-R. Padmanabhan and M. Ornik, ["Finite-time Reachability for Constrained, Partially Uncontrolled Nonlinear Systems,"](https://arxiv.org/abs/2604.08327) arXiv:2604.08327 [math.OC], Apr. 2026.
+R. Padmanabhan and M. Ornik, "Finite-time Reachability for Constrained, Partially Uncontrolled Nonlinear Systems," in _65th IEEE Conference on Decision and Control (CDC)_, Honolulu, HI, USA, Dec. 2026. \[Available at [arXiv:2604.08327](https://arxiv.org/abs/2604.08327)\]

@@ -18,7 +18,7 @@ Some of my other work has involved multi-agent reinforcement learning and the us
 
 I received the [Joan and Lalit Bahl Fellowship](https://ece.illinois.edu/academics/grad/fellowships/bahl) for two years between 2024 and 2026, and was a finalist of the IFAC Young Author Award in 2025. I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
 
-You can find my CV [here](https://ram-p.github.io/files/CV_RP_June26.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
+You can find my CV [here](https://ram-p.github.io/files/CV_RP_July26.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
 
 **Contact:** 360 Coordinated Science Laboratory, Urbana, IL 61801, USA. \
 **Email:** ramp3 \[at\] illinois \[dot\] edu
@@ -41,6 +41,9 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+
+- July 15, 2026 — Our paper ["Finite-time Reachability for Constrained, Partially Uncontrolled Nonlinear Systems"](https://arxiv.org/abs/2604.08327) has been accepted to the [65th IEEE Conference on Decision and Control (CDC)](https://cdc2026.ieeecss.org/)!
+
 - June 25, 2026 — I gave a talk at the [Robert Bosch Centre for Cyber-Physical Systems](https://cps.iisc.ac.in/) at the [Indian Institute of Science](https://www.iisc.ac.in/) today, as part of the [CORAL Talk Series](https://sites.google.com/view/coraltalks/home), on "Resilient Nonlinear Control under Adversarial Effects."
 
 - June 16, 2026 — Our paper ["Online Learning of Deceptive Policies under Intermittent Observation"](https://arxiv.org/abs/2509.14453) has been accepted to the [2026 IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS)](https://2026.ieee-iros.org/)!
@@ -60,11 +63,3 @@ News
 - January 6, 2026 — Our paper ["Approximate Energetic Resilience of Nonlinear Systems under Partial Loss of Control Authority"](https://arxiv.org/abs/2502.07603) has been accepted as a brief paper in _Automatica_!
 
 - December 13, 2025 — I was at the [64th IEEE Conference on Decision and Control (CDC)](https://cdc2025.ieeecss.org/) this week, presenting our paper ["Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance"](https://arxiv.org/abs/2505.13105).
-
-- October 10, 2025 — I will be co-chairing the _Robotics and Control_ session at the [2026 CSL Student Conference](https://studentconference.csl.illinois.edu/).
-
-- October 9, 2025 — I was at the [5th Modeling, Estimation and Control Conference (MECC)](https://mecc2025.a2c2.org/) this week, presenting our paper ["Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities"](https://arxiv.org/abs/2504.08579).
-
-- September 16, 2025 — Submitted a paper ["Online Learning of Deceptive Policies under Intermittent Observation"](https://arxiv.org/abs/2509.14453). This paper uses Theory of Mind (ToM) to inform online reinforcement learning (RL), and thus design deceptive policies for an agent in the setting of supervisory control.
-
-- September 8, 2025 — Submitted a new paper ["Ignore Drift, Embrace Simplicity: Constrained Nonlinear Control through Driftless Approximation"](https://arxiv.org/abs/2509.06188). This paper presents a novel method to control input-constrained nonlinear systems using optimal controllers for driftless systems, applied over successively shorter horizons.
