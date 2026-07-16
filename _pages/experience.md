@@ -8,6 +8,9 @@ author_profile: true
 Teaching
 ------
 - **Graduate Teaching Assistant**, University of Illinois Urbana-Champaign \
+_ECE 517 — Nonlinear & Adaptive Control_, August — December 2026
+
+- **Graduate Teaching Assistant**, University of Illinois Urbana-Champaign \
 _AE 498 ARO — Advanced Review of Basic Mathematics_, January — May 2026 \
 Constructed problems for homeworks and exams, and held office hours.
 

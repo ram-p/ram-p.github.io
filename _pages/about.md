@@ -42,6 +42,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 News
 ------
 
+- July 15, 2026 — I will be a Graduate Teaching Assistant for _ECE 517: Nonlinear & Adaptive Control_ in the Fall 2026 semester.
+
 - July 15, 2026 — Our paper ["Finite-time Reachability for Constrained, Partially Uncontrolled Nonlinear Systems"](https://arxiv.org/abs/2604.08327) has been accepted to the [65th IEEE Conference on Decision and Control (CDC)](https://cdc2026.ieeecss.org/)!
 
 - June 25, 2026 — I gave a talk at the [Robert Bosch Centre for Cyber-Physical Systems](https://cps.iisc.ac.in/) at the [Indian Institute of Science](https://www.iisc.ac.in/) today, as part of the [CORAL Talk Series](https://sites.google.com/view/coraltalks/home), on "Resilient Nonlinear Control under Adversarial Effects."
