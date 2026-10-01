@@ -18,7 +18,7 @@ Some of my other work has involved multi-agent reinforcement learning and the us
 
 I received the [Joan and Lalit Bahl Fellowship](https://ece.illinois.edu/academics/grad/fellowships/bahl) for two years between 2024 and 2026, and was a finalist of the IFAC Young Author Award in 2025. I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
 
-You can find my CV [here](https://ram-p.github.io/files/CV_RP_July26.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
+You can find my CV [here](https://ram-p.github.io/files/CV_RP_Oct26.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
 
 **Contact:** 360 Coordinated Science Laboratory, Urbana, IL 61801, USA. \
 **Email:** ramp3 \[at\] illinois \[dot\] edu
@@ -41,6 +41,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+
+- October 1, 2026 — I gave a talk at the [IEEE CSS Hybrid Systems TC](https://ieeecss.org/tc/hybrid-systems) Forum, on "System Level Synthesis in Switched Systems: Convexity, Causality and Scalability".
 
 - July 15, 2026 — I will be a Graduate Teaching Assistant for _ECE 517: Nonlinear & Adaptive Control_ in the Fall 2026 semester.
 
