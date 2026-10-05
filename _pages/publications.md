@@ -8,7 +8,9 @@ author_profile: true
 Preprints and Submitted Material
 ------
 
-- **R. Padmanabhan**, M. Fowler, K. Huff, M. Neubauer, and M. Ornik, ["A Vision for STEM Higher Education in the Face of AI,"](https://osf.io/preprints/edarxiv/nzd53_v1), EdArXiv:Nzd53_v1, May 2026.
+- C. A. F. Persiani, **R. Padmanabhan**, M. Ornik, and M. H. Terra, ["Control of Markov Jump Linear Systems with Uncertain Lumpable Cluster Observations,"](https://arxiv.org/abs/2610.02573) arXiv:2610.02573 [math.OC], Oct. 2026.
+
+- **R. Padmanabhan**, M. Fowler, K. Huff, M. Neubauer, and M. Ornik, ["A Vision for STEM Higher Education in the Face of AI,"](https://osf.io/preprints/edarxiv/nzd53_v1) EdArXiv:Nzd53_v1, May 2026.
 
 - R. Das\*, **R. Padmanabhan**\*, M. Ornik, and P. Jagtap, ["Energetic Resilience under Temporal Logic Specifications,"](https://arxiv.org/abs/2604.14203) arXiv:2604.14203 [eess.SY], Apr. 2026.
 

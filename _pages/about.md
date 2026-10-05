@@ -42,6 +42,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 News
 ------
 
+- October 2, 2026 — Submitted two papers; see the [Publications](https://ram-p.github.io/publications/) section for more information.
+
 - October 1, 2026 — I gave a talk at the [IEEE CSS Hybrid Systems TC](https://ieeecss.org/tc/hybrid-systems) Forum, on "System Level Synthesis in Switched Systems: Convexity, Causality and Scalability".
 
 - July 15, 2026 — I will be a Graduate Teaching Assistant for _ECE 517: Nonlinear & Adaptive Control_ in the Fall 2026 semester.
