@@ -42,7 +42,7 @@ Capstone Project: _Adaptive Iterative Learning Control_
 News
 ------
 
-— October 19, 2026 — I moderated a graduate student panel on "Graduate Research in the Age of AI" at the Coordinated Science Laboratory, with focus on impacts on research across fields, differences between industry and academic use of AI, and concerns about ownership of outputs.
+- October 19, 2026 — I moderated a graduate student panel on "Graduate Research in the Age of AI" at the Coordinated Science Laboratory, with focus on impacts on research across fields, differences between industry and academic use of AI, and concerns about ownership of outputs.
 
 - October 2, 2026 — Submitted two papers; see the [Publications](https://ram-p.github.io/publications/) section for more information.
 
