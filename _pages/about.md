@@ -18,7 +18,7 @@ Some of my other work has involved multi-agent reinforcement learning and the us
 
 I received the [Joan and Lalit Bahl Fellowship](https://ece.illinois.edu/academics/grad/fellowships/bahl) for two years between 2024 and 2026, and was a finalist of the IFAC Young Author Award in 2025. I received my MS in Electrical and Computer Engineering at the University of Michigan, Ann Arbor where I worked with [Peter Seiler](https://seiler.engin.umich.edu/) on analyzing the effect of varying step sizes on the convergence and noise amplification of gradient descent.
 
-You can find my CV [here](https://ram-p.github.io/files/CV_RP_Oct26.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
+You can find my CV [here](https://ram-p.github.io/files/CV_RP_Nov26.pdf), and my Google Scholar page [here](https://scholar.google.com/citations?user=YtKKnAEAAAAJ&hl=en).
 
 **Contact:** 360 Coordinated Science Laboratory, Urbana, IL 61801, USA. \
 **Email:** ramp3 \[at\] illinois \[dot\] edu
@@ -41,6 +41,8 @@ Capstone Project: _Adaptive Iterative Learning Control_
 
 News
 ------
+
+- November 5, 2026 — I will be a Graduate Teaching Assistant for _AE 598 AAO: Autonomy Against the Odds_ in the Spring 2027 semester.
 
 - October 19, 2026 — I moderated a graduate student panel on "Graduate Research in the Age of AI" at the Coordinated Science Laboratory, with focus on impacts on research across fields, differences between industry and academic use of AI, and concerns about ownership of outputs.
 
