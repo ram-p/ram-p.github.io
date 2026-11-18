@@ -12,7 +12,9 @@ I'm a final-year PhD candidate in Electrical and Computer Engineering at the Uni
 
 I am broadly interested in problems in control, learning and optimization. My research currently focuses on optimal control and resilience for systems whose dynamics are affected by system faults or adversaries. In this area, I am interested in (and have worked on) resilience quantification and resilient design for nonlinear systems and networks, potentially operating in a hostile environment. 
 
-My research combines tools from nonlinear control, optimal control and optimization, and is motivated by considerations of scalability and computational efficiency with underlying theoretical rigor. See my [Research](https://ram-p.github.io/research/) page for more details. In the near future, I will continue to work on designing controllers for such systems suffering adversarial effects, and am especially interested in learning-based solutions to this problem. 
+My research combines tools from nonlinear control, optimal control and optimization, and is motivated by considerations of scalability and computational efficiency with underlying theoretical rigor. See my [Research](https://ram-p.github.io/research/) page for more details. 
+
+My broad research agenda deals with the theme of _Scalable and Resilient Autonomy_, combining tools from control, formal methods, and game theory. In expanding the scope of my contributions, I plan to investigate learning-based and data-driven methods for resilient autonomy, complex specifications encoded through formal logic, as well as game-theoretic tools to analyze the interplay between systems, agents and their environments.
 
 Some of my other work has involved multi-agent reinforcement learning and the use of learning to deceive adversaries in stochastic environments.
 
@@ -44,7 +46,7 @@ News
 
 - November 5, 2026 — I will be a Graduate Teaching Assistant for _AE 598 AAO: Autonomy Against the Odds_ in the Spring 2027 semester.
 
-- October 19, 2026 — I moderated a graduate student panel on "Graduate Research in the Age of AI" at the Coordinated Science Laboratory, with focus on impacts on research across fields, differences between industry and academic use of AI, and concerns about ownership of outputs.
+- October 19, 2026 — I moderated a graduate student panel on []"Graduate Research in the Age of AI"](https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=9586) at the Coordinated Science Laboratory, with focus on impacts on research across fields, differences between industry and academic use of AI, and concerns about ownership of outputs.
 
 - October 2, 2026 — Submitted two papers; see the [Publications](https://ram-p.github.io/publications/) section for more information.
 
