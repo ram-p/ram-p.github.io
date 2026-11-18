@@ -14,7 +14,7 @@ I am broadly interested in problems in control, learning and optimization. My re
 
 My research combines tools from nonlinear control, optimal control and optimization, and is motivated by considerations of scalability and computational efficiency with underlying theoretical rigor. See my [Research](https://ram-p.github.io/research/) page for more details. 
 
-My broad research agenda deals with the theme of **"scalable and resilient autonomy"**, combining tools from control, formal methods, and game theory. In expanding the scope of my contributions, I plan to investigate learning-based and data-driven methods for resilient autonomy, complex specifications encoded through formal logic, as well as game-theoretic tools to analyze the interplay between systems, agents and their environments.
+My general research agenda deals with the theme of **"scalable and resilient autonomy"**, combining tools from control, formal methods, and game theory. In expanding the scope of my contributions, I plan to investigate learning-based and data-driven methods for resilient autonomy, complex specifications encoded through formal logic, as well as game-theoretic tools to analyze the interplay between systems, agents and their environments.
 
 Some of my other work has involved multi-agent reinforcement learning and the use of learning to deceive adversaries in stochastic environments.
 
